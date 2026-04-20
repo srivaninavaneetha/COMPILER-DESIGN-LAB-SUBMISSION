@@ -1,4 +1,4 @@
-Compiler Design Lab / Project
+Compiler Design Lab
 
 Overview
 
